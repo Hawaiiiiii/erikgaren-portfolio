@@ -1,7 +1,9 @@
 # ErikGaren 3D Portfolio
+<img width="3392" height="1321" alt="image" src="https://github.com/user-attachments/assets/b6706b7d-99a9-4a51-bdbf-42838c633d86" />
 
-A sophisticated 3D interactive portfolio website showcasing creative technology expertise through an immersive WebGL experience.
+> A 3D interactive portfolio website showcasing creative technology expertise through an immersive WebGL experience.
 
+---
 ## 🎨 Design System
 
 ### Color Palette
